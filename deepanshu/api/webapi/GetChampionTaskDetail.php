@@ -4,7 +4,7 @@
         "vendorId": 23,
         "vendorCode": "TB_Chess",
         "subGameIds": null,
-        "iconUrl": "https://ossimg.91admin123admin.com/91club/vendorlogo/championtasklogo_20250209144535264twka.jpg",
+        "iconUrl": "https://mishbahop.github.io/91club/vendorlogo/championtasklogo_20250209144535264twka.jpg",
         "categoryType": 0,
         "periodType": 1,
         "conditionsBetAmount": 1000.00,

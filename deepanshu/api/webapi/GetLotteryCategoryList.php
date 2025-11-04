@@ -45,7 +45,7 @@
 						$data[0]['categoryName'] = 'WinGo彩票';
 						$data[0]['state'] = 1;
 						$data[0]['sort'] = 0;
-						$data[0]['categoryImg'] = 'https://ossimg.91admin123admin.com/91club/lotterycategory/lotterycategory_202502101011154e3a.png';
+						$data[0]['categoryImg'] = 'https://mishbahop.github.io/91club/lotterycategory/lotterycategory_202502101011154e3a.png';
 						$data[0]['wingoAmount'] = null;
 						$data[0]['k3Amount'] = null;
 						$data[0]['fiveDAmount'] = null;
@@ -56,7 +56,7 @@
 						$data[1]['categoryName'] = 'K3彩票';
 						$data[1]['state'] = 1;
 						$data[1]['sort'] = 0;
-						$data[1]['categoryImg'] = 'https://ossimg.91admin123admin.com/91club/lotterycategory/lotterycategory_20250210101053ntrf.png';
+						$data[1]['categoryImg'] = 'https://mishbahop.github.io/91club/lotterycategory/lotterycategory_20250210101053ntrf.png';
 						$data[1]['wingoAmount'] = null;
 						$data[1]['k3Amount'] = null;
 						$data[1]['fiveDAmount'] = null;
@@ -67,7 +67,7 @@
 						$data[2]['categoryName'] = '5D彩票';
 						$data[2]['state'] = 1;
 						$data[2]['sort'] = 0;
-						$data[2]['categoryImg'] = 'https://ossimg.91admin123admin.com/91club/lotterycategory/lotterycategory_20250210101042iwui.png';
+						$data[2]['categoryImg'] = 'https://mishbahop.github.io/91club/lotterycategory/lotterycategory_20250210101042iwui.png';
 						$data[2]['wingoAmount'] = null;
 						$data[2]['k3Amount'] = null;
 						$data[2]['fiveDAmount'] = null;
@@ -78,7 +78,7 @@
 						$data[3]['categoryName'] = 'TrxWinGo彩票';
 						$data[3]['state'] = 1;
 						$data[3]['sort'] = 0;
-						$data[3]['categoryImg'] = 'https://ossimg.91admin123admin.com/91club/lotterycategory/lotterycategory_20250210101104jtse.png';
+						$data[3]['categoryImg'] = 'https://mishbahop.github.io/91club/lotterycategory/lotterycategory_20250210101104jtse.png';
 						$data[3]['wingoAmount'] = null;
 						$data[3]['k3Amount'] = null;
 						$data[3]['fiveDAmount'] = null;

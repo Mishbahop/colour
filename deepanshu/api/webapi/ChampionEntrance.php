@@ -3,7 +3,7 @@
         "id": 45,
         "vendorId": 23,
         "vendorCode": "TB_Chess",
-        "iconUrl": "https://ossimg.91admin123admin.com/91club/vendorlogo/championtasklogo_20250209144603018rfo6.jpg",
+        "iconUrl": "https://mishbahop.github.io/91club/vendorlogo/championtasklogo_20250209144603018rfo6.jpg",
         "categoryType": 0,
         "sumBonus": 103880.00,
         "maxBonus": 15800.00,

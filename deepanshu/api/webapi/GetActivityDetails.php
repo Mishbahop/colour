@@ -49,7 +49,7 @@
 						else if($bannerId == 53){
 							$data['title'] = "Win Streak\t";
 							$data['img'] = '<h3 style="text-align: center; color: #000000;"><strong>Bonus Rules</strong></h3><div style="text-align: center;"><img src="https://battery247.in/assets/notification.jpg" alt="Bonus Image" style="width: 100%; max-width: 1080px; border-radius: 8px;"></div><h4 style="text-align: center; font-family: Arial, sans-serif; font-size: 14px; color: #ffcc00;"><strong>1. Minimum Bet Amount:</strong> ₹10</h4><h4 style="text-align: center; font-family: Arial, sans-serif; font-size: 14px; color: #ffcc00;"><strong>2. Win Streak:</strong> The win streak should continue without any period skipped.</h4><h4 style="text-align: center; font-family: Arial, sans-serif; font-size: 14px; color: #ffcc00;"><strong>3. Applicable Game:</strong> This bonus is only available on <strong>WINGO</strong>!</h4><h4 style="text-align: center; font-family: Arial, sans-serif; font-size: 14px; color: #ffcc00;"><strong>4. Contact Your Tutor:</strong> To claim the bonus, please reach out to your Tutor.</h4>';
-                          $data['coverUrl'] = 'https://ossimg.91admin123admin.com/91club/editor/editor_20241129214224thw2.jpg';
+                          $data['coverUrl'] = 'https://mishbahop.github.io/91club/editor/editor_20241129214224thw2.jpg';
 						  $data['jumpType'] = 1;
 						}
                       	else if($bannerId == 69){
@@ -59,7 +59,7 @@
 								https://t.me/91clubsofficial
 								</a>
 								</strong> </h4>';
-                          $data['coverUrl'] = 'https://ossimg.91admin123admin.com/91club/editor/editor_20241129214224thw2.jpg';
+                          $data['coverUrl'] = 'https://mishbahop.github.io/91club/editor/editor_20241129214224thw2.jpg';
 						  $data['jumpType'] = 1;
 						}
 						else if($bannerId == 59){
@@ -72,7 +72,7 @@
 							$data['title'] = "91 Club Support Funds\t";
 							$data['img'] = '<p><img src="https://pub-628304d7b25d454abf303bfafba6a2e0.r2.dev/ALADDINN/banner/vip8585.jpg" style="width: 658px;"><br></p>';
 							$data['img'] = '<h3 style="text-align: center; color: #000000;"><strong>Bonus Rules</strong></h3><div style="text-align: center;"></div><h4 style="text-align: center; font-family: Arial, sans-serif; font-size: 14px; color: #ffcc00;"><strong>1. Support Fund is given only on the amount of recharge you loose</strong></h4><h4 style="text-align: center; font-family: Arial, sans-serif; font-size: 14px; color: #ffcc00;"><strong>2. Contact your Tutor to claim support fund</h4><h4 style="text-align: center; font-family: Arial, sans-serif; font-size: 14px; color: #ffcc00;"></h4>';
-                            $data['coverUrl'] = 'https://ossimg.91admin123admin.com/91club/editor/editor_20241129214224thw2.jpg';
+                            $data['coverUrl'] = 'https://mishbahop.github.io/91club/editor/editor_20241129214224thw2.jpg';
 							$data['jumpType'] = 1;
 						}
 						else if($bannerId == 66){

@@ -43,49 +43,49 @@
 					if($sesnum == 1){
                         $data["list"][0]["bannerTitle"] = "First Deposit Bonus";
                         $data["list"][0]["bannerID"] = 71;
-                        $data["list"][0]["bannerUrl"] = "https://ossimg.91admin123admin.com/91club/banner/Banner_202403021314318bw3.png";
+                        $data["list"][0]["bannerUrl"] = "https://mishbahop.github.io/91club/banner/Banner_202403021314318bw3.png";
                         $data["list"][0]["jumpType"] = 2;
                         $data["list"][0]["contents"] = "/activity/FirstRecharge";
                         
                         $data["list"][1]["bannerTitle"] = "Invitation Bonus";
                         $data["list"][1]["bannerID"] = 62;
-                        $data["list"][1]["bannerUrl"] = "https://ossimg.91admin123admin.com/91club/banner/Banner_20240902112453yokb.png";
+                        $data["list"][1]["bannerUrl"] = "https://mishbahop.github.io/91club/banner/Banner_20240902112453yokb.png";
                         $data["list"][1]["jumpType"] = 2;
                         $data["list"][1]["contents"] = "/main/InvitationBonus";
                         
                         $data["list"][2]["bannerTitle"] = "Win Streak 2X Price Happy Hour";
                         $data["list"][2]["bannerID"] = 53;
-                        $data["list"][2]["bannerUrl"] = "https://ossimg.91admin123admin.com/91club/banner/Banner_20240327152703xq8d.jpg";
+                        $data["list"][2]["bannerUrl"] = "https://mishbahop.github.io/91club/banner/Banner_20240327152703xq8d.jpg";
                         $data["list"][2]["jumpType"] = 1;
                         $data["list"][2]["contents"] = "";
                         
                         $data["list"][3]["bannerTitle"] = "Lucky Spin To Win Iphone 16 Pro Max";
                         $data["list"][3]["bannerID"] = 59;
-                        $data["list"][3]["bannerUrl"] = "https://ossimg.91admin123admin.com/91club/banner/Banner_20240821101004fj8u.png";
+                        $data["list"][3]["bannerUrl"] = "https://mishbahop.github.io/91club/banner/Banner_20240821101004fj8u.png";
                         $data["list"][3]["jumpType"] = 2;
                         $data["list"][3]["contents"] = "/activity/Turntable";
                         
                         $data["list"][4]["bannerTitle"] = "Daily Bonus Until 1 CRORE";
                         $data["list"][4]["bannerID"] = 69;
-                        $data["list"][4]["bannerUrl"] = "https://ossimg.91admin123admin.com/91club/vendorlogo/championtasklogo_20250209144535264twka.jpg";
+                        $data["list"][4]["bannerUrl"] = "https://mishbahop.github.io/91club/vendorlogo/championtasklogo_20250209144535264twka.jpg";
                         $data["list"][4]["jumpType"] = 1;
                         $data["list"][4]["contents"] = "";
                         
                         $data["list"][5]["bannerTitle"] = "Monthly VIP Bonus";
                         $data["list"][5]["bannerID"] = 46;
-                        $data["list"][5]["bannerUrl"] = "https://ossimg.91admin123admin.com/91club/banner/Banner_20241129214232t5s2.png";
+                        $data["list"][5]["bannerUrl"] = "https://mishbahop.github.io/91club/banner/Banner_20241129214232t5s2.png";
                         $data["list"][5]["jumpType"] = 2;
                         $data["list"][5]["contents"] = "/vip";
                         
                         $data["list"][6]["bannerTitle"] = "91club Game Support Funds";
                         $data["list"][6]["bannerID"] = 47;
-                        $data["list"][6]["bannerUrl"] = "https://ossimg.91admin123admin.com/91club/banner/Banner_20240517135547cyn8.jpg";
+                        $data["list"][6]["bannerUrl"] = "https://mishbahop.github.io/91club/banner/Banner_20240517135547cyn8.jpg";
                         $data["list"][6]["jumpType"] = 1;
                         $data["list"][6]["contents"] = "https://t.me/91clubofficial";
                         
                         $data["list"][7]["bannerTitle"] = "Become An Agent In 91club Game";
                         $data["list"][7]["bannerID"] = 66;
-                        $data["list"][7]["bannerUrl"] = "https://ossimg.91admin123admin.com/91club/banner/Banner_20240131164605jo9h.jpg";
+                        $data["list"][7]["bannerUrl"] = "https://mishbahop.github.io/91club/banner/Banner_20240131164605jo9h.jpg";
                         $data["list"][7]["jumpType"] = 1;
                         $data["list"][7]["contents"] = "https://t.me/91clubofficial";
 

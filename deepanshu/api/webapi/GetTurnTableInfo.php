@@ -37,37 +37,37 @@
                     [
                         'rewardType' => 1,
                         'rewardSetting' => "11",
-                        'prizePicturesUrl' => "https://ossimg.91admin123admin.com/91club/other/turntable_20240820180506i7lf.png"
+                        'prizePicturesUrl' => "https://mishbahop.github.io/91club/other/turntable_20240820180506i7lf.png"
                     ],
                     [
                         'rewardType' => 1,
                         'rewardSetting' => "31",
-                        'prizePicturesUrl' => "https://ossimg.91admin123admin.com/91club/other/turntable_20240820180506i7lf.png"
+                        'prizePicturesUrl' => "https://mishbahop.github.io/91club/other/turntable_20240820180506i7lf.png"
                     ],
                     [
                         'rewardType' => 1,
                         'rewardSetting' => "61",
-                        'prizePicturesUrl' => "https://ossimg.91admin123admin.com/91club/other/turntable_20240820180506i7lf.png"
+                        'prizePicturesUrl' => "https://mishbahop.github.io/91club/other/turntable_20240820180506i7lf.png"
                     ],
                     [
                         'rewardType' => 1,
                         'rewardSetting' => "91",
-                        'prizePicturesUrl' => "https://ossimg.91admin123admin.com/91club/other/turntable_20240820180506i7lf.png"
+                        'prizePicturesUrl' => "https://mishbahop.github.io/91club/other/turntable_20240820180506i7lf.png"
                     ],
                     [
                         'rewardType' => 1,
                         'rewardSetting' => "131",
-                        'prizePicturesUrl' => "https://ossimg.91admin123admin.com/91club/other/turntable_20240820180506i7lf.png"
+                        'prizePicturesUrl' => "https://mishbahop.github.io/91club/other/turntable_20240820180506i7lf.png"
                     ],
                     [
                         'rewardType' => 1,
                         'rewardSetting' => "611",
-                        'prizePicturesUrl' => "https://ossimg.91admin123admin.com/91club/other/turntable_20240820180506i7lf.png"
+                        'prizePicturesUrl' => "https://mishbahop.github.io/91club/other/turntable_20240820180506i7lf.png"
                     ],
                     [
                         'rewardType' => 1,
                         'rewardSetting' => "2111",
-                        'prizePicturesUrl' => "https://ossimg.91admin123admin.com/91club/other/turntable_20240820180506i7lf.png"
+                        'prizePicturesUrl' => "https://mishbahop.github.io/91club/other/turntable_20240820180506i7lf.png"
                     ],
                     [
                         'rewardType' => 2,
