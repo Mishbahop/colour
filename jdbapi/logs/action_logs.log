@@ -1,0 +1,813 @@
+2024-11-10 17:40:51 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260450324,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:42:03 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260522176,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:42:09 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260526597,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:42:23 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260542595,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:42:24 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260544128,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:42:26 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260544988,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:42:27 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260547004,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:42:54 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260574190,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:42:56 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260575448,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:43:10 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260587561,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:43:20 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260599801,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:43:50 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260630298,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:43:51 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260631372,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:44:18 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260657471,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:49:45 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731260984484,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:51:51 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731261110752,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:51:54 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731261112856,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:54:58 {
+    "action_received": 6
+}
+2024-11-10 17:54:58 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731261297601,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:55:17 {
+    "action_received": 9
+}
+2024-11-10 17:55:19 {
+    "action_received": 9
+}
+2024-11-10 17:55:20 {
+    "action_received": 9
+}
+2024-11-10 17:56:19 {
+    "action_received": 6
+}
+2024-11-10 17:56:19 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731261378289,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:56:21 {
+    "action_received": 6
+}
+2024-11-10 17:56:21 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731261380645,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 17:56:23 {
+    "action_received": 6
+}
+2024-11-10 17:56:23 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731261382980,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:07:13 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262032634,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:08:41 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262120263,
+        "uid": "1234567899",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:11:23 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262282419,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:12:37 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262356521,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:13:30 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262409336,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:14:55 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262494632,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:15:25 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262524469,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:15:33 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262532491,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:16:57 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262616627,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:19:12 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262751450,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:19:20 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262759592,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:20:25 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262824549,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:21:56 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262915785,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:22:27 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731262946534,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:28:35 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731263313786,
+        "uid": "1234567890",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-11-10 18:28:59 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731263338604,
+        "uid": "1234567890",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:29:12 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731263351992,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:29:52 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731263390840,
+        "uid": "1000000000",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22006
+    }
+}
+2024-11-10 18:30:57 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731263456954,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:31:04 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731263463930,
+        "uid": "1000000000",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22006
+    }
+}
+2024-11-10 18:31:11 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731263470449,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:31:13 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731263472555,
+        "uid": "1000000000",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22006
+    }
+}
+2024-11-10 18:31:37 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731263496615,
+        "uid": "1000000000",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22006
+    }
+}
+2024-11-10 18:59:09 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731265149279,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 19:00:38 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731265237814,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 19:00:54 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731265254047,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 19:00:56 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731265255188,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 22:25:20 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731277519482,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 22:29:23 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731277762466,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 22:30:56 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731277855571,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 22:30:57 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731277857225,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 22:30:59 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731277859373,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 23:14:26 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731280465145,
+        "uid": "9383993939",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 02:56:56 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731293815081,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 02:58:16 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731293896149,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:36:24 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731299782947,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:37:32 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731299851685,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:38:13 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731299891723,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:39:13 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731299952082,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:40:12 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300011828,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:41:12 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300071560,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:41:50 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300109574,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:43:22 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300201111,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:44:12 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300251615,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:44:52 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300292134,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:45:42 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300341681,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:46:22 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300381808,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:47:12 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300431640,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:47:53 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300472658,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:48:42 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300521761,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-11 04:49:22 {
+    "action": 6,
+    "parameters": {
+        "action": 6,
+        "ts": 1731300562102,
+        "uid": "9876543210",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}

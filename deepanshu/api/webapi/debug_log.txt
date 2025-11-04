@@ -1,0 +1,12 @@
+sumRotateNum: 12
+surplusRotateNum: 7
+Inserting data for user: 739438
+sumRotateNum: 12
+surplusRotateNum: 8
+Inserting data for user: 739438
+sumRotateNum: 12
+surplusRotateNum: 9
+Inserting data for user: 739438
+sumRotateNum: 12
+surplusRotateNum: 0
+Inserting data for user: 739438

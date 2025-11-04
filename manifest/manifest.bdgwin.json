@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "bigvclub",
+	"version": "1.2",
+	"display": "standalone",
+	"background_color": "#efaabc",
+	"description": "bigvclub",
+	"icons": [
+		{
+			"src": "/manifest/bdgwin@192.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/manifest/bdgwin@512.png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/#/"
+}

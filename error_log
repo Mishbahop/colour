@@ -1,0 +1,57 @@
+[24-Jan-2025 18:13:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/fmyaeusu/public_html/nayakaphalitansa_mulaka_unohs.php on line 8
+[24-Jan-2025 18:13:41 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yaks6354_bdg.gelluonduhoguu' doesn't exist in /home/fmyaeusu/public_html/niyamitakelasa.php:21
+Stack trace:
+#0 /home/fmyaeusu/public_html/niyamitakelasa.php(21): mysqli_query(Object(mysqli), 'select atadaaid...')
+#1 {main}
+  thrown in /home/fmyaeusu/public_html/niyamitakelasa.php on line 21
+[24-Jan-2025 18:13:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/fmyaeusu/public_html/nayakaphalitansa_mulaka_unohs.php on line 8
+[24-Jan-2025 18:13:44 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yaks6354_bdg.gelluonduhoguu' doesn't exist in /home/fmyaeusu/public_html/niyamitakelasa.php:21
+Stack trace:
+#0 /home/fmyaeusu/public_html/niyamitakelasa.php(21): mysqli_query(Object(mysqli), 'select atadaaid...')
+#1 {main}
+  thrown in /home/fmyaeusu/public_html/niyamitakelasa.php on line 21
+[24-Jan-2025 18:13:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/fmyaeusu/public_html/nayakaphalitansa_mulaka_unohs.php on line 8
+[24-Jan-2025 18:13:46 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'yaks6354_bdg.gelluonduhoguu' doesn't exist in /home/fmyaeusu/public_html/niyamitakelasa.php:21
+Stack trace:
+#0 /home/fmyaeusu/public_html/niyamitakelasa.php(21): mysqli_query(Object(mysqli), 'select atadaaid...')
+#1 {main}
+  thrown in /home/fmyaeusu/public_html/niyamitakelasa.php on line 21
+[24-Jan-2025 12:47:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/fmyaeusu/public_html/serive/samparka.php:2
+Stack trace:
+#0 /home/fmyaeusu/public_html/index.php(2): include()
+#1 {main}
+  thrown in /home/fmyaeusu/public_html/serive/samparka.php on line 2
+[24-Jan-2025 12:47:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/fmyaeusu/public_html/serive/samparka.php:2
+Stack trace:
+#0 /home/fmyaeusu/public_html/index.php(2): include()
+#1 {main}
+  thrown in /home/fmyaeusu/public_html/serive/samparka.php on line 2
+[24-Jan-2025 12:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/fmyaeusu/public_html/serive/samparka.php:2
+Stack trace:
+#0 /home/fmyaeusu/public_html/index.php(2): include()
+#1 {main}
+  thrown in /home/fmyaeusu/public_html/serive/samparka.php on line 2
+[24-Jan-2025 12:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/fmyaeusu/public_html/serive/samparka.php:2
+Stack trace:
+#0 /home/fmyaeusu/public_html/index.php(2): include()
+#1 {main}
+  thrown in /home/fmyaeusu/public_html/serive/samparka.php on line 2
+[25-Jan-2025 00:37:46 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[25-Jan-2025 00:52:33 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[25-Jan-2025 00:52:39 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[25-Jan-2025 00:52:42 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[25-Jan-2025 00:52:46 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[25-Jan-2025 00:52:46 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[25-Jan-2025 01:09:54 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[25-Jan-2025 01:14:59 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[25-Jan-2025 01:19:49 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[25-Jan-2025 01:19:52 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[25-Jan-2025 01:26:31 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[25-Jan-2025 01:27:43 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/fmyaeusu/public_html/index.php on line 7
+[24-Feb-2025 16:36:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'numbergu_Freegame'@'localhost' (using password: YES) in /home/appyin/public_html/serive/samparka.php on line 2
+[24-Feb-2025 16:36:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'numbergu_Freegame'@'localhost' (using password: YES) in /home/appyin/public_html/serive/samparka.php on line 2
+[24-Feb-2025 16:36:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'numbergu_Freegame'@'localhost' (using password: YES) in /home/appyin/public_html/serive/samparka.php on line 2
+[24-Feb-2025 16:36:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'numbergu_Freegame'@'localhost' (using password: YES) in /home/appyin/public_html/serive/samparka.php on line 2
+[24-Feb-2025 16:38:29 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'numbergu_Freegame'@'localhost' to database 'numbergu_Freegame' in /home/appyin/public_html/serive/samparka.php on line 2
+[24-Feb-2025 16:39:44 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'numbergu_Freegame'@'localhost' to database 'numbergu_Freegame' in /home/appyin/public_html/serive/samparka.php on line 2
+[24-Feb-2025 16:39:45 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'numbergu_Freegame'@'localhost' to database 'numbergu_Freegame' in /home/appyin/public_html/serive/samparka.php on line 2

@@ -1,0 +1,26 @@
+2024-11-10 18:13:53 {
+    "invalid_action": {
+        "action": 9,
+        "ts": 1731262431946,
+        "transferId": 5626267,
+        "uid": "9876543210",
+        "currency": "RS",
+        "amount": 1000,
+        "gameRoundSeqNo": "7345741",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-11-10 18:15:55 {
+    "invalid_action": {
+        "action": 9,
+        "ts": 1731262555233,
+        "transferId": 5626276,
+        "uid": "9876543210",
+        "currency": "RS",
+        "amount": 1000,
+        "gameRoundSeqNo": "7345748",
+        "gType": 22,
+        "mType": 22001
+    }
+}

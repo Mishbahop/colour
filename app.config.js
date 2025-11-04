@@ -1,0 +1,20 @@
+window.CONFIG = Object.freeze({
+    "VITE_API_URL": "https://numberguest.shop/abcoders",
+    "VITE_BASE_LANGUAGE": "en",
+    "VITE_BASE_DOLLARSIGN": "₹",
+    "VITE_BASE_AREACODE": "+91",
+    "VITE_BASE_DICTIONARY": "{\"+91\":\"10\"}",
+    "VITE_BASE_LANGUAGES": "en|hd",
+    "VITE_BASE_PROJECTLOGO": "",
+    "VITE_BASE_HEADLOGO": "",
+    "VITE_BASE_PROJECTNAME": "91club",
+    "VITE_BASE_CURRENCY": "INR",
+    "VITE_BASE_UPPERORLOWER": "0",
+    "VITE_POINT": "91club",
+    "VITE_HOME": "redHome",
+    "VITE_MAINCOLOR": "redStyle",
+    "BASE_URL": "/",
+    "MODE": "production",
+    "DEV": true,
+    "PROD": false
+});
